@@ -44,8 +44,6 @@ const {
   // mongoose
   const mongoose = require("mongoose");
   const options = {
-    useNewUrlParser: true,
-    useUnifiedTopology: true,
     serverSelectionTimeoutMS: 30000, // Tempo limite para seleção de servidor em milissegundos
     connectTimeoutMS: 10000,         // Tempo limite de conexão em milissegundos
     socketTimeoutMS: 45000,          // Tempo limite do socket em milissegundos
