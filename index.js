@@ -49,7 +49,7 @@ const {
     serverSelectionTimeoutMS: 30000, // Tempo limite para seleção de servidor em milissegundos
     connectTimeoutMS: 10000,         // Tempo limite de conexão em milissegundos
     socketTimeoutMS: 45000,          // Tempo limite do socket em milissegundos
-    poolSize: 5,                     // Tamanho do pool de conexões
+    maxPoolSize: 5,                  // Tamanho do pool de conexões
     wtimeoutMS: 2500,                // Tempo limite de gravação em milissegundos
     retryWrites: true                // Habilita tentativas de gravação
   };
