@@ -4,14 +4,7 @@
 O FazendeiroGeral Bot foi criado para facilitar o gerenciamento das fazendas no condado. Com este bot, fazendeiros podem registrar suas fazendas, gerenciar plantações, rebanhos, e encomendas diretamente no Discord. Totalmente público, qualquer servidor pode adicionar e começar a utilizar suas funcionalidades.
 
 ## 🚀 Como Adicionar o Bot
-
-1. Acesse a barra lateral direita do Discord.
-2. Encontre o @FazendeiroGeral.
-3. Visualize o perfil dele e clique no botão "Adicionar App".
-4. Selecione o servidor onde deseja adicionar o bot.
-
-Para qualquer dúvida sobre o convite do bot, funcionamento dos comandos ou outras questões, sinta-se à vontade para enviar uma mensagem na minha DM!
-
+1. https://discord.com/oauth2/authorize?client_id=1235223797871673364
 ---
 
 ## 🛠️ Principais Funcionalidades do Bot
